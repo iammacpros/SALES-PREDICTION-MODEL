@@ -53,9 +53,9 @@ Target Variable: `SALES`
 
 | Metric        | Value (Random Forest) |
 |---------------|------------------------|
-| R² Score      | ~0.91 (example)        |
-| RMSE          | (insert from notebook) |
-| MAE           | (insert from notebook) |
+| R² Score      | ~0.9232857627258035        |
+| RMSE          | 578.661575870331 |
+| MAE           | 272.17282318584085 |
 
 The Random Forest outperformed the baseline linear regression in all metrics.
 
